@@ -1,0 +1,181 @@
+,category,subcategory0,subcategory1,base_query
+0,1,b2c,bekleidung,abikleider
+1,1,b2c,bekleidung,adidas samba
+2,1,b2c,bekleidung,jeans damen
+3,1,b2c,bekleidung,jeans herren
+4,1,b2c,bekleidung,mode trends
+5,1,b2b,beratung,anwalt
+6,1,b2b,beratung,finanzberater
+7,1,b2b,beratung,innovationsberatung
+8,1,b2b,beratung,notar
+9,1,b2b,beratung,steuerberater crypto
+10,1,b2c,drogerie,bodylotion
+11,1,b2c,drogerie,duschschaum
+12,1,b2c,drogerie,einwegrasierer
+13,1,b2c,drogerie,hautpflege für männer
+14,1,b2c,drogerie,whitening zahnpasta
+15,2,,fitness,achtsamkeit
+16,2,,fitness,ausdauertraining
+17,2,,fitness,fitnesstipps
+18,2,,fitness,gesunde ernährung
+19,2,,fitness,muskelaufbau
+20,4,,gesellschaft,gender pay gap
+21,4,,gesellschaft,gleichstellung
+22,4,,gesellschaft,neoliberalismus
+23,4,,gesellschaft,remigration
+24,4,,gesellschaft,sozialismus
+25,2,,krankheiten,bluthochdruck
+26,2,,krankheiten,depressionen
+27,2,,krankheiten,diabetes
+28,2,,krankheiten,migräne
+29,2,,krankheiten,reizdarm
+30,1,b2c,kueche_haushalt,edelstahlpfanne
+31,1,b2c,kueche_haushalt,messer
+32,1,b2c,kueche_haushalt,pürierstab
+33,1,b2c,kueche_haushalt,reiskocher
+34,1,b2c,kueche_haushalt,sparschäler
+35,1,b2b,marketingdienstleistungen,content creator
+36,1,b2b,marketingdienstleistungen,performance marketing agentur
+37,1,b2b,marketingdienstleistungen,seo agentur
+38,1,b2b,marketingdienstleistungen,shopify entwickler
+39,1,b2b,marketingdienstleistungen,social media agentur
+40,3,,natur,akazienbäume
+41,3,,natur,bienensterben
+42,3,,natur,marianengraben
+43,3,,natur,unwetter
+44,3,,natur,waschbären
+45,4,,parteien,afd
+46,4,,parteien,cdu
+47,4,,parteien,fdp
+48,4,,parteien,grüne
+49,4,,parteien,spd
+50,4,,politik,asylpolitik
+51,4,,politik,bundeskanzler kandidaten
+52,4,,politik,energiewende
+53,4,,politik,rentenreform
+54,4,,politik,selbstbestimmungsgesetz
+55,1,b2c,reisen_kultur_veranstaltungen,flüge bali
+56,1,b2c,reisen_kultur_veranstaltungen,günstige reiseziele
+57,1,b2c,reisen_kultur_veranstaltungen,nachtzug
+58,1,b2c,reisen_kultur_veranstaltungen,taylor swift tickets
+59,1,b2c,reisen_kultur_veranstaltungen,veranstaltungen in meiner nähe
+60,1,b2b,software,asana alternative
+61,1,b2b,software,crm
+62,1,b2b,software,hubspot alternative
+63,1,b2b,software,innovation software
+64,1,b2b,software,newsletter tool
+65,1,b2c,spielwaren,beste nerf gun
+66,1,b2c,spielwaren,gta 6
+67,1,b2c,spielwaren,lego technic
+68,1,b2c,spielwaren,playmobil
+69,1,b2c,spielwaren,schleich figuren
+70,2,,symptome,bauchschmerzen
+71,2,,symptome,haarausfall
+72,2,,symptome,kopfschmerzen
+73,2,,symptome,schwindel
+74,2,,symptome,starkes schwitzen
+75,3,,technik,atomkraft
+76,3,,technik,augmented reality
+77,3,,technik,chatgpt
+78,3,,technik,dampfkraftwerk
+79,3,,technik,teilchenbeschleuniger
+80,1,b2c,unterhaltungselektronik,4k fernseher
+81,1,b2c,unterhaltungselektronik,Playstation 5
+82,1,b2c,unterhaltungselektronik,alexa vs google
+83,1,b2c,unterhaltungselektronik,das beste macbook
+84,1,b2c,unterhaltungselektronik,xbox series x
+85,3,,wissenschaft,entropie
+86,3,,wissenschaft,higgs boson
+87,3,,wissenschaft,kernfusion
+88,3,,wissenschaft,klimawandel
+89,3,,wissenschaft,konstruktivismus
+0,1,b2c,bekleidung,herren sneaker
+1,1,b2c,bekleidung,damen blazer
+2,1,b2c,bekleidung,90s hosen
+3,1,b2c,bekleidung,old money style
+4,1,b2c,bekleidung,bucket hats
+5,1,b2b,beratung,vermögensberater
+6,1,b2b,beratung,it beratung
+7,1,b2b,beratung,organisationsentwicklung
+8,1,b2b,beratung,csr beratung
+9,1,b2b,beratung,nachhaltigkeitsberatung
+10,1,b2c,drogerie,trockenshampoo
+11,1,b2c,drogerie,naturkosmetik
+12,1,b2c,drogerie,rasierschaum
+13,1,b2c,drogerie,pflegedusche
+14,1,b2c,drogerie,kosmetiktücher
+15,2,,fitness,deadlift technik
+16,2,,fitness,training kurzhanteln
+17,2,,fitness,ernährungsplan cardio
+18,2,,fitness,flexibilität übungen
+19,2,,fitness,intervalltraining
+20,4,,gesellschaft,frauenrechte
+21,4,,gesellschaft,generationenkonflikt
+22,4,,gesellschaft,soziale gerechtigkeit
+23,4,,gesellschaft,diskriminierung
+24,4,,gesellschaft,kapitalismus
+25,2,,krankheiten,wurzelbehandlung
+26,2,,krankheiten,morbus crohn
+27,2,,krankheiten,multiple sklerose
+28,2,,krankheiten,adhs
+29,2,,krankheiten,windpocken
+30,1,b2c,kueche_haushalt,schwammtücher
+31,1,b2c,kueche_haushalt,heißluftfritteuse
+32,1,b2c,kueche_haushalt,indische gerichte
+33,1,b2c,kueche_haushalt,proteinhaltige gerichte
+34,1,b2c,kueche_haushalt,entsafter
+35,1,b2b,marketingdienstleistungen,copywriter
+36,1,b2b,marketingdienstleistungen,content marketing agentur
+37,1,b2b,marketingdienstleistungen,influencer agentur
+38,1,b2b,marketingdienstleistungen,wordpress entwickler
+39,1,b2b,marketingdienstleistungen,webflow entwickler
+40,3,,natur,tornado alley
+41,3,,natur,stärkster hurricane
+42,3,,natur,regenwald größe
+43,3,,natur,korallenriffe
+44,3,,natur,erdbeben stärke
+45,4,,parteien,die linke
+46,4,,parteien,bsw
+47,4,,parteien,volt partei
+48,4,,parteien,die rechte
+49,4,,parteien,piratenpartei
+50,4,,politik,geldpolitik
+51,4,,politik,netzwerkdurchsetzungsgesetz
+52,4,,politik,reichensteuer
+53,4,,politik,rki files
+54,4,,politik,digital services act
+55,1,b2c,reisen_kultur_veranstaltungen,mallorca ohne ballermann
+56,1,b2c,reisen_kultur_veranstaltungen,roadtrip usa
+57,1,b2c,reisen_kultur_veranstaltungen,beste restaurants
+58,1,b2c,reisen_kultur_veranstaltungen,junggesellenabschied
+59,1,b2c,reisen_kultur_veranstaltungen,bierverkostung
+60,1,b2b,software,figma alternative
+61,1,b2b,software,miro templates
+62,1,b2b,software,salesforce tutorial
+63,1,b2b,software,sap successfactors
+64,1,b2b,software,recruiting software
+65,1,b2c,spielwaren,beste xbox spiele
+66,1,b2c,spielwaren,spielzeug für draußen
+67,1,b2c,spielwaren,hot wheels
+68,1,b2c,spielwaren,babyspielzeug
+69,1,b2c,spielwaren,tonies
+70,2,,symptome,ausschlag am rücken
+71,2,,symptome,nackenschmerzen
+72,2,,symptome,zahnschmerzen
+73,2,,symptome,herzstolpern
+74,2,,symptome,durchfall
+75,3,,technik,3d druck
+76,3,,technik,quantencomputer
+77,3,,technik,hochgeschwindigkeitszüge
+78,3,,technik,iot
+79,3,,technik,blockchain
+80,1,b2c,unterhaltungselektronik,günstiges smartphone
+81,1,b2c,unterhaltungselektronik,oled tv
+82,1,b2c,unterhaltungselektronik,ki gadgets
+83,1,b2c,unterhaltungselektronik,smartwatches
+84,1,b2c,unterhaltungselektronik,soundbars
+85,3,,wissenschaft,quantenmechanik
+86,3,,wissenschaft,halbleiterforschung
+87,3,,wissenschaft,gender studies
+88,3,,wissenschaft,exoplaneten
+89,3,,wissenschaft,immunologie
